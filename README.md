@@ -1,13 +1,5 @@
-## Running React on Repl.it
+## Topic: HR Offers Platform
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+Problem description:
+> Your HR department would like to create a new system to manage employment offers and you have been tasked with building it. For this project, you must create a React frontend for both the hiring managers creating offers and potential employees who will receive them.
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
-
-Using the two in conjunction is one of the fastest ways to build a web app.
-
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
-
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the `.replit` file.
